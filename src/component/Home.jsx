@@ -4,6 +4,7 @@ import Post from './Post'
 import Filter from './Filter'
 import Cards from './Card'
 import Footer from './Foot'
+import AddProduct from './AddProduct'
 
 
 function Home() {
@@ -28,6 +29,7 @@ function Home() {
 
       <Post />
       <Filter />
+      <AddProduct />
       <Cards />
       <Footer />
 
